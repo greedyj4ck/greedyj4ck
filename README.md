@@ -22,7 +22,7 @@ If you like my work and want to support future projects, feel free to contribute
 You can also support me with donations via **Buy Me a Coffee** or any other platform I use – it really helps keep the projects going! ☕💻
 
 <a href="https://www.buymeacoffee.com/greedyjack" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00" alt="Buy Me A Coffee" width="150" ></a>
-<a href="https://www.buymeacoffee.com/greedyjack" target="_blank"><img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white"></a>
+<a href="https://www.paypal.me/greedyjack" target="_blank"><img src="https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
 
 
